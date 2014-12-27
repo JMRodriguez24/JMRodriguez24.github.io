@@ -10,3 +10,5 @@ github_username:  JMRodriguez24
 
 # Build settings
 markdown: kramdown
+
+higlighter: pygments
